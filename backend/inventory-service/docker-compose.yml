@@ -1,0 +1,14 @@
+name: mysql-stack-for-ecommerce-inv
+version: '4'
+
+services:
+  mysql:
+    image: mysql:8.3.0
+    container_name: mysql-8-0-3-inv
+    environment:
+      MYSQL_ROOT_PASSWORD: password
+    ports:
+      - "3307:3306"
+    volumes:
+      - ./mysql/data:/var/lib/mysql
+      - ./docker/mysql/init.sql:/docker-entrypoint-initdb.d/init.sql

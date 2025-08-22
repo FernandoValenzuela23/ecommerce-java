@@ -1,0 +1,95 @@
+backend/.metadata
+
+backend/inventory-service/HELP.md
+backend/inventory-service/target/
+backend/inventory-service/!.mvn/wrapper/maven-wrapper.jar
+backend/inventory-service/!**/src/main/**/target/
+backend/inventory-service/!**/src/test/**/target/
+backend/inventory-service/mysql/data/*.*
+### STS ###
+backend/inventory-service/.apt_generated
+backend/inventory-service/.classpath
+backend/inventory-service/.factorypath
+backend/inventory-service/.project
+backend/inventory-service/.settings
+backend/inventory-service/.springBeans
+backend/inventory-service/.sts4-cache
+### IntelliJ IDEA ###
+backend/inventory-service/.idea
+backend/inventory-service/*.iws
+backend/inventory-service/*.iml
+backend/inventory-service/*.ipr
+### NetBeans ###
+backend/inventory-service/nbproject/private/
+backend/inventory-service/nbbuild/
+backend/inventory-service/dist/
+backend/inventory-service/nbdist/
+backend/inventory-service/.nb-gradle/
+backend/inventory-service/build/
+backend/inventory-service/!**/src/main/**/build/
+backend/inventory-service/!**/src/test/**/build/
+### VS Code ###
+backend/inventory-service/.vscode/
+
+backend/order-service/HELP.md
+backend/order-service/target/
+backend/order-service/!.mvn/wrapper/maven-wrapper.jar
+backend/order-service/!**/src/main/**/target/
+backend/order-service/!**/src/test/**/target/
+backend/order-service/mysql/data/*.*
+### STS ###
+backend/order-service/.apt_generated
+backend/order-service/.classpath
+backend/order-service/.factorypath
+backend/order-service/.project
+backend/order-service/.settings
+backend/order-service/.springBeans
+backend/order-service/.sts4-cache
+### IntelliJ IDEA ###
+backend/order-service/.idea
+backend/order-service/*.iws
+backend/order-service/*.iml
+backend/order-service/*.ipr
+### NetBeans ###
+backend/order-service/nbproject/private/
+backend/order-service/nbbuild/
+backend/order-service/dist/
+backend/order-service/nbdist/
+backend/order-service/.nb-gradle/
+backend/order-service/build/
+backend/order-service/!**/src/main/**/build/
+backend/order-service/!**/src/test/**/build/
+### VS Code ###
+backend/order-service/.vscode/
+
+
+backend/product-service/HELP.md
+backend/product-service/target/
+backend/product-service/!.mvn/wrapper/maven-wrapper.jar
+backend/product-service/!**/src/main/**/target/
+backend/product-service/!**/src/test/**/target/
+backend/product-service/mysql/data/*.*
+### STS ###
+backend/product-service/.apt_generated
+backend/product-service/.classpath
+backend/product-service/.factorypath
+backend/product-service/.project
+backend/product-service/.settings
+backend/product-service/.springBeans
+backend/product-service/.sts4-cache
+### IntelliJ IDEA ###
+backend/product-service/.idea
+backend/product-service/*.iws
+backend/product-service/*.iml
+backend/product-service/*.ipr
+### NetBeans ###
+backend/product-service/nbproject/private/
+backend/product-service/nbbuild/
+backend/product-service/dist/
+backend/product-service/nbdist/
+backend/product-service/.nb-gradle/
+backend/product-service/build/
+backend/product-service/!**/src/main/**/build/
+backend/product-service/!**/src/test/**/build/
+### VS Code ###
+backend/product-service/.vscode/
