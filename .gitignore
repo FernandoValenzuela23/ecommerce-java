@@ -69,7 +69,9 @@ backend/product-service/!.mvn/wrapper/maven-wrapper.jar
 backend/product-service/!**/src/main/**/target/
 backend/product-service/!**/src/test/**/target/
 backend/product-service/mysql/data/*.*
+backend/product-service/mongodb/data
 backend/product-service/mongodb/data/*.*
+backend/product-service/mongodb/**
 ### STS ###
 backend/product-service/.apt_generated
 backend/product-service/.classpath
