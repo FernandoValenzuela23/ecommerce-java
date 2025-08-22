@@ -72,6 +72,7 @@ backend/product-service/mysql/data/*.*
 backend/product-service/mongodb/data
 backend/product-service/mongodb/data/*.*
 backend/product-service/mongodb/**
+backend/product-service/mongodb/
 ### STS ###
 backend/product-service/.apt_generated
 backend/product-service/.classpath
